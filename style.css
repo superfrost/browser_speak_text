@@ -1,0 +1,14 @@
+body{
+  background: linear-gradient(90deg, #ffee00, #33ff00);
+  width: 95%;
+  margin: 0 auto;
+  margin-top: 1rem;
+}
+
+#text{
+  display: flex;
+  margin: 5px 5px 10px 0;
+  resize: vertical;
+  height: 50vh;
+  width: 100%;
+}
